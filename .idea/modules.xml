@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACMTest/ACMTest.iml" filepath="$PROJECT_DIR$/ACMTest/ACMTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtrack/Backtrack.iml" filepath="$PROJECT_DIR$/Backtrack/Backtrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryIndexTree/BinaryIndexTree.iml" filepath="$PROJECT_DIR$/BinaryIndexTree/BinaryIndexTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design/Design.iml" filepath="$PROJECT_DIR$/Design/Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetcodeRecordProject.iml" filepath="$PROJECT_DIR$/LeetcodeRecordProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekCompetetion/WeekCompetetion.iml" filepath="$PROJECT_DIR$/WeekCompetetion/WeekCompetetion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memory-search/memory-search.iml" filepath="$PROJECT_DIR$/memory-search/memory-search.iml" />
+    </modules>
+  </component>
+</project>
